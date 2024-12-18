@@ -1362,3 +1362,19 @@ git push
 git push --set-upstream DeveshNegi99 DevOps_II
 #1734456462
 git status
+#1734530565
+git restore .bash_history
+#1734530567
+git status
+#1734530582
+git checkout
+#1734530598
+git checkout DeveshNegi99
+#1734530607
+git checkout DevOps_II
+#1734530614
+clear
+#1734530618
+git status
+#1734530634
+git add bash_history
