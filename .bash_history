@@ -1378,3 +1378,11 @@ clear
 git status
 #1734530634
 git add bash_history
+#1734530736
+git restore .bash_history
+#1734530741
+git status
+#1734530751
+git checkout DeveshNegi99
+#1734530759
+git checkout master
